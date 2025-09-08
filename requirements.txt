@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+#-e . #this is used to build the package at the end
